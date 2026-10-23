@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/d/book-100.png</file>
+    <file>images/d/cart-80.png</file>
+    <file>images/d/order-list-80.png</file>
+    <file>images/d/pen-96.png</file>
+    <file>images/d/publishing-128.png</file>
+    <file>images/d/search-96.png</file>
+    <file>images/d/settings-80.png</file>
+    <file>images/d/star-32.png</file>
+    <file>images/d/user-profile-96.png</file>
+    <file>images/d/warehouse-96.png</file>
+    <file>images/l/book-100.png</file>
+    <file>images/l/cart-80.png</file>
+    <file>images/l/order-list-80.png</file>
+    <file>images/l/pen-96.png</file>
+    <file>images/l/publishing-128.png</file>
+    <file>images/l/search-96.png</file>
+    <file>images/l/settings-80.png</file>
+    <file>images/l/star-32.png</file>
+    <file>images/l/user-profile-96.png</file>
+    <file>images/l/warehouse-96.png</file>
+    <file>images/book-94.png</file>
+    <file>images/error.png</file>
+    <file>images/info.png</file>
+    <file>images/warning.png</file>
+    <file>images/logo-00.png</file>
+  </qresource>
+</RCC>

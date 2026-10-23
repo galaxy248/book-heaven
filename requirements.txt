@@ -1,0 +1,12 @@
+# Book Heaven Project Requirements
+
+# Backend (Flask API)
+Flask>=3.0.0
+Flask-RESTful>=0.3.10
+psycopg2-binary>=2.9.9
+cryptography>=42.0.1
+python-dotenv>=1.0.1
+
+# Frontend (PyQt6 GUI)
+PyQt6>=6.4.2
+requests>=2.31.0
